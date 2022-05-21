@@ -124,6 +124,4 @@ docker-compose pull
 docker-compose up -d
 ```
 
-## Stars 增长记录
-
-[![Stargazers over time](https://starchart.cc/Misaka-blog/XrayR-script.svg)](https://starchart.cc/Misaka-blog/XrayR-script)
+## 感谢XrayR原作者Crackair, 感谢Misaka-blog 以及 mapgepw 的备份文件.
